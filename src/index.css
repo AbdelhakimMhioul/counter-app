@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.count-button {
+  @apply text-white font-bold py-4 px-8 rounded;
+}
